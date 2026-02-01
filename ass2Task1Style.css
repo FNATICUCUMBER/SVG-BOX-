@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#drawArea {
+  border: 4px solid black;
+  cursor: crosshair;
+}
